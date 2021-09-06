@@ -1,0 +1,10 @@
+{
+  "name": "js-lesson08-practice-input-generate-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "json": "11.0.0"
+  },
+  "keywords": []
+}
